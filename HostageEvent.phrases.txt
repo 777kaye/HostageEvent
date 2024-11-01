@@ -1,0 +1,31 @@
+"Phrases"
+{
+	"follows"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} {skyblue}Has touched a hostage"
+		"chi"			"{1} {skyblue}已觸碰一位人質"
+		"zho"			"{1} {skyblue}已觸碰一位人質"
+	}
+	"rescued"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} {green}Successfully rescued a hostage"
+		"chi"			"{1} {green}成功獲救一位人質"
+		"zho"			"{1} {green}成功獲救一位人質"
+	}
+	"stops_following"
+	{
+		"#format"		"{1:s}"
+		"en"			"{red}The hostage has stopped following by {white}{1}"
+		"chi"			"{red}人質已停止跟隨{white} {1}"
+		"zho"			"{red}人質已停止跟隨{white} {1}"
+	}
+	"rescued_all"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1} {yellow}Successfully rescued all hostage"
+		"chi"			"{1} {yellow}成功獲救所有人"
+		"zho"			"{1} {yellow}成功獲救所有人質"
+	}
+}
